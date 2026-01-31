@@ -16,6 +16,7 @@ Component	GPIO Pin
 LDR Sensor	GPIO 2
 Relay Module	GPIO 3
 Switch	GPIO 4
+
 <img width="255" height="97" alt="image" src="https://github.com/user-attachments/assets/249473a8-4ae3-42b7-b032-dac264611fbe" />
 
 💻 Software Requirements
