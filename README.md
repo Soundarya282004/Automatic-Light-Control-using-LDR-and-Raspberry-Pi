@@ -12,12 +12,11 @@ This project automatically controls a light based on ambient brightness using an
 
 🔧 GPIO Pin Connections
 
-Component :	GPIO Pin
-LDR Sensor	- GPIO 2
-Relay Module -	GPIO 3
-Switch -	GPIO 4
-
-<img width="161" height="169" alt="image" src="https://github.com/user-attachments/assets/1fdcbe21-7bf8-4650-baa4-900b59794928" />
+Component	GPIO Pin
+LDR Sensor	GPIO 2
+Relay Module	GPIO 3
+Switch	GPIO 4
+<img width="255" height="97" alt="image" src="https://github.com/user-attachments/assets/249473a8-4ae3-42b7-b032-dac264611fbe" />
 
 💻 Software Requirements
 
