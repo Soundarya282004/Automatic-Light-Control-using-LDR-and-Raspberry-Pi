@@ -43,8 +43,6 @@ Step 3 — Run the script on Raspberry Pi
 
 ⚙️ How the System Works
 
-You can add this section to GitHub under “Working”.
-
 🌞 When It’s Bright
 
     if GPIO.input(ldr) != GPIO.HIGH:
